@@ -1,2 +1,2 @@
 version=3
-ftp://ftp.kde.org/pub/kde/unstable/plasma/([\d\.]+)/src/kwrited-(.*)\.tar\.xz
+ftp://ftp.kde.org/pub/kde/unstable/plasma/([\d\.]+)/kwrited-(.*)\.tar\.xz
