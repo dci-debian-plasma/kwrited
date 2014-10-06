@@ -6,6 +6,10 @@ kwrited (4:5.0.95-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Remove extra space in changelog entry causing lintian errors. 
 
+  [ Harald Sitter ]
+  * Linitan override missing manpage as kwrited is not even meant to be run
+    directly
+
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Oct 2014 15:27:36 +0200
 
 kwrited (4:5.0.2-0ubuntu1) utopic; urgency=medium
