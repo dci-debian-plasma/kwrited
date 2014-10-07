@@ -1,1 +1,1 @@
-W: kwrited: binary-without-manpage usr/bin/kwrited
+kwrited: binary-without-manpage usr/bin/kwrited
