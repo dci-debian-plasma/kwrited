@@ -16,22 +16,14 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kwrited.git
 Package: kwrited
 Section: utils
 Architecture: any
-Depends: kwrited-data (= ${binary:Version}), ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Replaces: kwrited-data
+Breaks: kwrited-data
 Description: Read and write console output to X.
  Kwrited captures console output (e.g. broadcast messages) and prints
  it in a X window.
  .
  This package is part of the KDE base workspace module.
-
-Package: kwrited-data
-Section: libs
-Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: Read and write console output to X data files.
- Kwrited captures console output (e.g. broadcast messages) and prints
- it in a X window.
- .
- This package contains the data files
 
 Package: kwrited-dbg
 Section: debug
