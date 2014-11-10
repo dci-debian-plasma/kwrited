@@ -1,8 +1,8 @@
-kwrited (4:5.1.1-0ubuntu1) UNRELEASED; urgency=medium
+kwrited (4:5.1.1-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 07 Nov 2014 02:37:58 +0000
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 10 Nov 2014 19:48:34 +0100
 
 kwrited (4:5.1.0.1-0ubuntu2) vivid; urgency=medium
 
