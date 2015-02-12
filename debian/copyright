@@ -3,8 +3,9 @@ Upstream-Name: kwrited
 Source: git://anongit.kde.org/kwrited
 
 Files: *
-Copyright: © 2008 George Kiagiadakis <gkiagia@users.sourceforge.net>
-           © 1997-1998 Lars Doelle <lars.doelle@on-line.de>
+Copyright: 2008, George Kiagiadakis <gkiagia@users.sourceforge.net>
+           1997-1998, Lars Doelle <lars.doelle@on-line.de>
+License: GPL-2+
 
 Files: debian/*
 Copyright: 2014, Scarlett Clark <scarlett@scarlettgatelyclark.com>
