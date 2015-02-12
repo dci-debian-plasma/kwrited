@@ -1,2 +1,3 @@
 version=3
-ftp://ftp.kde.org/pub/kde/unstable/plasma/([\d\.]+)/kwrited-(.*)\.tar\.xz
+http://download.kde.org/unstable/plasma/([\d\.]+)/kwrited-([\d\.]+)\.tar\.xz
+http://download.kde.org/stable/plasma/([\d\.]+)/kwrited-([\d\.]+)\.tar\.xz

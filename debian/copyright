@@ -1,13 +1,16 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: kde-cli-tools
-Source: ftp://ftp.kde.org/pub/kde/unstable/plasma/kde-cli-tools
+Upstream-Name: kwrited
+Source: git://anongit.kde.org/kwrited
 
 Files: *
-       debian/*
 Copyright: © 2008 George Kiagiadakis <gkiagia@users.sourceforge.net>
            © 1997-1998 Lars Doelle <lars.doelle@on-line.de>
-             2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
-License: GPL-2.0+
+
+Files: debian/*
+Copyright: 2014, Scarlett Clark <scarlett@scarlettgatelyclark.com>
+License: GPL-2+
+
+License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 2 of the License, or
