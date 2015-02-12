@@ -1,5 +1,6 @@
 Source: kwrited
-Priority: extra
+Section: kde
+Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12),
@@ -13,13 +14,11 @@ Build-Depends: cmake (>= 2.8.12),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
                qtbase5-dev (>= 5.3.0)
 Standards-Version: 3.9.5
-Section: libs
 Homepage: https://projects.kde.org/projects/kde/workspace/kwrited
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/kwrited.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kwrited.git
 
 Package: kwrited
-Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Replaces: kwrited-data
@@ -32,9 +31,10 @@ Description: Read and write console output to X.
 
 Package: kwrited-dbg
 Section: debug
+Priority: extra
 Architecture: any
-Recommends: qtbase5-dbg
 Depends: kwrited (= ${binary:Version}), ${misc:Depends}
+Recommends: qtbase5-dbg
 Description: Read and write console output to X debug files
  Desktop configuration application.
  .
