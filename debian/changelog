@@ -1,6 +1,7 @@
 kwrited (4:5.3.2-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.3.2).
+  * Delete old conffile.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 30 Jun 2015 12:23:02 +0200
 
