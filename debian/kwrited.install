@@ -1,2 +1,2 @@
-usr/lib/*/qt5/plugins/kf5/kded_kwrited.so
+usr/lib/*/qt5/plugins/kf5/kded/kwrited.so
 usr/share/knotifications5/kwrited.notifyrc
