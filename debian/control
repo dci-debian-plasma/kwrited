@@ -28,14 +28,3 @@ Description: Read and write console output to X.
  it in a X window.
  .
  This package is part of the KDE base workspace module.
-
-Package: kwrited-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Depends: kwrited (= ${binary:Version}), ${misc:Depends}
-Recommends: qtbase5-dbg
-Description: Read and write console output to X debug files
- Desktop configuration application.
- .
- This package contains the debugging symbols.
