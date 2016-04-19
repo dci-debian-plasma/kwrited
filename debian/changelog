@@ -1,11 +1,12 @@
-kwrited (4:5.6.2-1~2.gbp231bbc) UNRELEASED; urgency=medium
+kwrited (4:5.6.3-1~1.gbpdc27fa) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @231bbc67217fbc6684854bb89eaca645c748841c **
+  ** SNAPSHOT build @dc27fa181f000ba7d52b62a5db7803d87291a4fb **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @4f3b52313f459b8c55cc30138d5ee3d8b0d14611 **
 
   * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
   * uscan no longer supports this kind of watch files.
@@ -15,7 +16,7 @@ kwrited (4:5.6.2-1~2.gbp231bbc) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * Update install files
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 09 Apr 2016 21:16:54 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 19 Apr 2016 18:59:09 +0200
 
 kwrited (4:5.5.5-1~) UNRELEASED; urgency=medium
 
