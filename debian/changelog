@@ -1,10 +1,6 @@
-kwrited (4:5.6.3-1~1.gbpdc27fa) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @dc27fa181f000ba7d52b62a5db7803d87291a4fb **
+kwrited (4:5.6.3-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @4f3b52313f459b8c55cc30138d5ee3d8b0d14611 **
-
   * Update build-deps and deps with the info from cmake
   * Bump Standards-Version to 3.9.8
 
@@ -15,14 +11,9 @@ kwrited (4:5.6.3-1~1.gbpdc27fa) UNRELEASED; urgency=medium
   * Automatic update with ddeb_migration3.py
   * Add upstream metadata (DEP-12)
   * Update install files
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 19 Apr 2016 18:59:09 +0200
-
-kwrited (4:5.5.5-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.5.5).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 17:21:31 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 07 May 2016 14:40:09 +0200
 
 kwrited (4:5.5.4-1) experimental; urgency=medium
 
