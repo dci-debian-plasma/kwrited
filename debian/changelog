@@ -1,3 +1,11 @@
+kwrited (4:5.6.5-1~1.gbp084486) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @084486c2a9ecab35f19a8e4baf8794277f4c5b93 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 18:59:10 +0200
+
 kwrited (4:5.6.4-1) unstable; urgency=medium
 
   * New upstream release.
