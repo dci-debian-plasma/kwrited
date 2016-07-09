@@ -1,10 +1,8 @@
-kwrited (4:5.7.0-1~1.gbp587204) UNRELEASED; urgency=medium
+kwrited (4:5.7.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @587204717e36c1a167f66eb11276c33636592851 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 05 Jul 2016 18:59:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 09 Jul 2016 20:10:23 +0200
 
 kwrited (4:5.6.5-1) unstable; urgency=medium
 
