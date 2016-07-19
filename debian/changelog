@@ -1,10 +1,11 @@
-kwrited (4:5.7.1-1~1.gbp9da966) UNRELEASED; urgency=medium
+kwrited (4:5.7.2-1~1.gbp7e6403) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @9da96698a58f78d945fc7914b7d43ec12769d97a **
+  ** SNAPSHOT build @7e6403e7e18a363c46a6bc48b39a4f26b7e1c50a **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 18:59:15 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 19 Jul 2016 18:59:15 +0200
 
 kwrited (4:5.7.0-1) unstable; urgency=medium
 
