@@ -1,3 +1,11 @@
+kwrited (4:5.8.2-1~1.gbp393e84) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @393e84e5d5d2a82fc7972fcb2d090f7ff7a9d800 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 18:59:24 +0200
+
 kwrited (4:5.8.1-1) unstable; urgency=medium
 
   * New upstream release (5.8.1)
