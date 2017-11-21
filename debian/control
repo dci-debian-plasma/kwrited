@@ -31,7 +31,7 @@ Description: Read and write console output to X.
 
 Package: kwrited-dbg
 Section: debug
-Priority: extra
+Priority: optional
 Architecture: any
 Depends: kwrited (= ${binary:Version}), ${misc:Depends}
 Recommends: qtbase5-dbg
@@ -39,3 +39,4 @@ Description: Read and write console output to X debug files
  Desktop configuration application.
  .
  This package contains the debugging symbols.
+
